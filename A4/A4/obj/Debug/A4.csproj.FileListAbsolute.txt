@@ -1,0 +1,10 @@
+C:\Users\yanin\source\repos\A4\A4\bin\Debug\A4.exe.config
+C:\Users\yanin\source\repos\A4\A4\bin\Debug\A4.exe
+C:\Users\yanin\source\repos\A4\A4\bin\Debug\A4.pdb
+C:\Users\yanin\source\repos\A4\A4\obj\Debug\A4.csprojResolveAssemblyReference.cache
+C:\Users\yanin\source\repos\A4\A4\obj\Debug\A4.Properties.Resources.resources
+C:\Users\yanin\source\repos\A4\A4\obj\Debug\A4.csproj.GenerateResource.Cache
+C:\Users\yanin\source\repos\A4\A4\obj\Debug\A4.csproj.CoreCompileInputs.cache
+C:\Users\yanin\source\repos\A4\A4\obj\Debug\A4.exe
+C:\Users\yanin\source\repos\A4\A4\obj\Debug\A4.pdb
+C:\Users\yanin\source\repos\A4\A4\obj\Debug\A4.Calculator.resources
